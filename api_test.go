@@ -13,9 +13,9 @@ import (
 	"time"
 
 	"github.com/golang/mock/gomock"
-	"github.com/max-messenger/max-bot-api-client-go/configservice"
-	"github.com/max-messenger/max-bot-api-client-go/mocks"
-	"github.com/max-messenger/max-bot-api-client-go/schemes"
+	"github.com/rectid/max-bot-api-client-go/configservice"
+	"github.com/rectid/max-bot-api-client-go/mocks"
+	"github.com/rectid/max-bot-api-client-go/schemes"
 	"github.com/stretchr/testify/require"
 )
 

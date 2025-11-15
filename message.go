@@ -1,6 +1,6 @@
 package maxbot
 
-import "github.com/max-messenger/max-bot-api-client-go/schemes"
+import "github.com/rectid/max-bot-api-client-go/schemes"
 
 type Message struct {
 	userID  int64
